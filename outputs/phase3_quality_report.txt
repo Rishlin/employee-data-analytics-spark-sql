@@ -1,0 +1,37 @@
+PHASE 3 - FINAL DATA QUALITY REPORT
+=============================================
+Original rows: 250
+Cleaned rows: 250
+Reloaded Parquet rows: 250
+Original columns: 14
+Cleaned columns: 14
+Reloaded Parquet columns: 14
+Duplicate employee ID groups: 0
+Fully duplicated row groups: 0
+Orphan manager IDs: 0
+
+MISSING VALUES: BEFORE -> AFTER
+employee_id: 0 -> 0
+first_name: 0 -> 0
+last_name: 0 -> 0
+department: 0 -> 0
+job_title: 0 -> 0
+location: 4 -> 4
+hire_date: 0 -> 0
+employment_type: 0 -> 0
+salary_inr: 0 -> 0
+years_experience: 0 -> 0
+education_level: 3 -> 3
+performance_rating: 32 -> 32
+bonus_percentage: 0 -> 0
+manager_id: 8 -> 8
+
+CLEANING POLICY
+- Text is trimmed; blank text becomes NULL.
+- hire_date is converted to a date.
+- Missing values are not guessed or imputed.
+- Duplicate records are reported, not automatically deleted.
+- Missing manager IDs are not counted as orphan IDs.
+
+STRUCTURAL CHECKS: PASS
+Review business-rule violations and missing-value counts above.
