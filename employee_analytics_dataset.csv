@@ -1,0 +1,251 @@
+employee_id,first_name,last_name,department,job_title,location,hire_date,employment_type,salary_inr,years_experience,education_level,performance_rating,bonus_percentage,manager_id
+EMP0001,Ishaan,Kulkarni,Data & Analytics,Data Analyst,Hyderabad,25-04-2024,Part-time,1075000,4,Doctorate,3,0.12,
+EMP0002,Siddharth,Reddy,Engineering,Software Engineer,Delhi,18-01-2017,Full-time,1145000,10,Doctorate,4,0,
+EMP0003,Vihaan,Bhat,Marketing,Marketing Executive,Mumbai,05-07-2024,Full-time,1430000,3,Bachelor's,3,0.03,
+EMP0004,Rehan,Shetty,Operations,Operations Associate,Hyderabad,10-01-2020,Contract,995000,8,Bachelor's,,0.12,
+EMP0005,Ira,Bhat,Marketing,Brand Analyst,Pune,05-12-2025,Full-time,840000,2,Master's,,0,
+EMP0006,Vihaan,Kulkarni,Data & Analytics,BI Analyst,Pune,12-02-2019,Full-time,1380000,10,Master's,3,0.05,
+EMP0007,Siddharth,Das,Finance,Financial Analyst,Mumbai,08-03-2021,Full-time,1090000,8,Master's,,0.12,
+EMP0008,Saanvi,Reddy,Engineering,Data Engineer,Kozhikode,01-07-2020,Contract,715000,8,Doctorate,3,0.1,
+EMP0009,Arnav,Thomas,Human Resources,HR Business Partner,Mumbai,25-07-2017,Full-time,1300000,10,Master's,4,0.05,EMP0007
+EMP0010,Tanvi,Patel,Customer Support,Support Associate,Delhi,22-06-2024,Contract,420000,2,Doctorate,3,0.03,EMP0007
+EMP0011,Kiran,Menon,Marketing,Brand Analyst,Pune,26-08-2025,Contract,640000,1,Master's,,0.1,EMP0005
+EMP0012,Nandini,Kumar,Customer Support,Support Associate,Hyderabad,05-02-2024,Full-time,615000,7,Master's,,0.15,EMP0003
+EMP0013,Tanvi,Verma,Human Resources,HR Business Partner,Kozhikode,20-07-2024,Full-time,1040000,3,Bachelor's,,0.1,EMP0001
+EMP0014,Vikram,Jain,Sales,Sales Analyst,Hyderabad,07-09-2018,Part-time,965000,8,Master's,5,0,EMP0002
+EMP0015,Vihaan,Kumar,Human Resources,HR Manager,Chennai,01-03-2022,Full-time,767200,5,Doctorate,4,0.1,EMP0007
+EMP0016,Aditi,Joshi,Sales,Business Development Executive,Chennai,20-10-2021,Part-time,655000,7,Master's,3,0,EMP0006
+EMP0017,Arjun,Gupta,Engineering,Software Engineer,Chennai,09-12-2023,Full-time,700000,7,Doctorate,3,0,EMP0006
+EMP0018,Sana,Menon,Finance,Payroll Specialist,Hyderabad,25-06-2017,Contract,1610000,14,Diploma,,0.08,EMP0007
+EMP0019,Ananya,Thomas,Operations,Operations Manager,Mumbai,27-03-2021,Full-time,509600,10,Master's,,0.12,EMP0002
+EMP0020,Aditya,Dutta,Finance,Financial Analyst,Hyderabad,05-01-2022,Contract,755000,7,Bachelor's,3,0.05,EMP0008
+EMP0021,Neha,Mehta,Engineering,Engineering Manager,Kozhikode,17-05-2025,Contract,879200,1,Master's,5,0.15,EMP0004
+EMP0022,Pooja,Mehta,Operations,Operations Associate,Kozhikode,05-11-2017,Full-time,325000,11,Master's,,0.05,EMP0008
+EMP0023,Arnav,Mishra,Marketing,SEO Specialist,Kochi,27-08-2016,Full-time,505000,14,Bachelor's,4,0,EMP0001
+EMP0024,Riya,Das,Human Resources,HR Executive,Bengaluru,03-09-2022,Part-time,1210000,4,Bachelor's,5,0.08,EMP0002
+EMP0025,Aditya,Kapoor,Operations,Process Analyst,Delhi,04-05-2022,Full-time,1125000,8,Diploma,5,0.03,EMP0006
+EMP0026,Arjun,Shetty,Customer Support,Support Analyst,Chennai,06-06-2024,Part-time,290000,2,Diploma,3,0.1,EMP0002
+EMP0027,Ishita,Jain,Human Resources,HR Business Partner,Pune,17-11-2025,Part-time,1475000,0,Bachelor's,3,0.05,EMP0003
+EMP0028,Dev,Pillai,Marketing,Marketing Executive,Chennai,05-11-2025,Full-time,1025000,1,Master's,2,0,EMP0003
+EMP0029,Akash,Sharma,Marketing,Brand Analyst,Mumbai,24-06-2021,Full-time,480000,7,Diploma,2,0.08,EMP0005
+EMP0030,Meera,Shetty,Human Resources,HR Manager,Bengaluru,09-03-2022,Full-time,1002400,9,Master's,4,0,EMP0002
+EMP0031,Nisha,Reddy,Operations,Operations Analyst,Chennai,20-06-2016,Full-time,1250000,12,Diploma,5,0.15,EMP0001
+EMP0032,Tara,Sharma,Operations,Process Analyst,Kochi,27-05-2024,Full-time,925000,3,Doctorate,5,0.15,EMP0003
+EMP0033,Ira,Reddy,Finance,Senior Accountant,Kozhikode,14-10-2017,Full-time,756000,13,Diploma,3,0,EMP0008
+EMP0034,Dev,Rao,Finance,Financial Analyst,,06-04-2016,Part-time,890000,15,Diploma,3,0.05,EMP0002
+EMP0035,Ishaan,Singh,Engineering,Software Engineer,Delhi,01-11-2025,Full-time,1005000,2,Diploma,4,0.05,EMP0001
+EMP0036,Akash,Naidu,Operations,Process Analyst,Delhi,25-09-2021,Full-time,1305000,5,Master's,5,0.03,EMP0005
+EMP0037,Rahul,Gupta,Sales,Business Development Executive,Pune,13-10-2016,Contract,1195000,14,Diploma,4,0.12,EMP0002
+EMP0038,Farhan,Joshi,Operations,Logistics Coordinator,Pune,20-03-2022,Contract,810000,5,Bachelor's,3,0.08,EMP0003
+EMP0039,Nandini,Mishra,Marketing,Content Strategist,Kochi,10-05-2018,Full-time,1170000,11,Diploma,3,0.08,EMP0004
+EMP0040,Aditi,Nair,Sales,Sales Executive,Chennai,06-03-2025,Contract,1140000,2,Bachelor's,3,0.03,EMP0003
+EMP0041,Vikram,Thomas,Customer Support,Team Lead,Chennai,08-12-2025,Full-time,1015000,5,Bachelor's,3,0.12,EMP0007
+EMP0042,Kavya,Bose,Data & Analytics,BI Analyst,Kochi,15-06-2018,Contract,1775000,9,Diploma,3,0.1,EMP0004
+EMP0043,Neha,Varghese,Customer Support,Support Manager,Kozhikode,20-02-2025,Contract,1036000,6,Diploma,3,0.1,EMP0008
+EMP0044,Arjun,Naidu,Finance,Senior Accountant,Pune,02-08-2024,Full-time,1836800,6,Diploma,4,0.05,EMP0008
+EMP0045,Vihaan,Patel,Sales,Sales Analyst,Delhi,21-01-2022,Contract,700000,4,Diploma,,0.08,EMP0003
+EMP0046,Riya,Thomas,Customer Support,Team Lead,Kozhikode,12-09-2016,Full-time,815000,11,Diploma,3,0.15,EMP0001
+EMP0047,Vikram,Sharma,Marketing,Digital Marketing Manager,Delhi,27-07-2025,Full-time,1019200,4,Doctorate,3,0.05,EMP0007
+EMP0048,Diya,Chopra,Human Resources,HR Manager,Delhi,06-06-2017,Full-time,1153600,13,Doctorate,1,0.08,EMP0001
+EMP0049,Zoya,Kapoor,Human Resources,HR Executive,Delhi,01-12-2018,Full-time,765000,10,Bachelor's,3,0.05,EMP0006
+EMP0050,Arjun,Bhat,Customer Support,Support Associate,Bengaluru,26-05-2024,Full-time,345000,6,Master's,,0.05,EMP0004
+EMP0051,Riya,Reddy,Finance,Accountant,Kozhikode,19-12-2022,Full-time,1010000,4,Diploma,2,0.12,EMP0002
+EMP0052,Rahul,Menon,Human Resources,People Operations Analyst,Bengaluru,23-10-2022,Full-time,1265000,8,Doctorate,2,0.15,EMP0003
+EMP0053,Tanvi,Saxena,Operations,Operations Analyst,Hyderabad,07-11-2016,Part-time,940000,13,Bachelor's,2,0.15,EMP0005
+EMP0054,Aarav,Dutta,Sales,Sales Manager,Delhi,20-10-2020,Contract,1450400,10,Bachelor's,2,0.12,EMP0006
+EMP0055,Farhan,Saxena,Operations,Logistics Coordinator,Kozhikode,16-02-2023,Contract,710000,6,Doctorate,3,0.12,EMP0005
+EMP0056,Rehan,Joshi,Marketing,Content Strategist,Delhi,20-07-2025,Full-time,570000,2,Bachelor's,,0.08,EMP0004
+EMP0057,Dev,George,Customer Support,Support Analyst,Pune,14-01-2018,Part-time,550000,11,Bachelor's,3,0.05,EMP0006
+EMP0058,Priya,Chopra,Finance,Accountant,Kozhikode,15-09-2018,Contract,1440000,13,Bachelor's,3,0.15,EMP0004
+EMP0059,Priya,Shetty,Data & Analytics,Data Scientist,Mumbai,26-06-2018,Contract,1070000,11,Diploma,3,0.1,EMP0006
+EMP0060,Saanvi,Menon,Sales,Business Development Executive,Kochi,14-01-2019,Full-time,990000,9,Master's,3,0.12,EMP0004
+EMP0061,Pooja,Das,Customer Support,Support Analyst,Mumbai,15-02-2024,Full-time,950000,6,Diploma,4,0,EMP0004
+EMP0062,Kabir,Chopra,Engineering,Engineering Manager,Kozhikode,02-06-2017,Full-time,744800,11,Bachelor's,,0.1,EMP0005
+EMP0063,Priya,Menon,Marketing,Digital Marketing Manager,Hyderabad,14-05-2021,Contract,1366400,8,Doctorate,3,0,EMP0005
+EMP0064,Diya,Das,Data & Analytics,Analytics Manager,Hyderabad,22-01-2023,Part-time,655200,8,Doctorate,3,0.15,EMP0005
+EMP0065,Rahul,Joshi,Finance,Payroll Specialist,Bengaluru,07-04-2020,Part-time,1530000,9,Bachelor's,3,0.1,EMP0007
+EMP0066,Neha,Sharma,Finance,Financial Analyst,Delhi,19-12-2018,Contract,605000,12,Doctorate,3,0.03,EMP0002
+EMP0067,Ira,Kumar,Marketing,Marketing Executive,Pune,06-08-2018,Part-time,1070000,10,Master's,4,0.08,EMP0002
+EMP0068,Arjun,Nair,Operations,Operations Associate,Kochi,08-02-2022,Full-time,700000,5,Diploma,,0.15,EMP0003
+EMP0069,Ishita,Patel,Customer Support,Support Associate,Bengaluru,03-04-2021,Contract,665000,10,Diploma,4,0.05,EMP0008
+EMP0070,Riya,Nair,Marketing,Marketing Executive,Kochi,09-01-2017,Contract,400000,10,Doctorate,,0.12,EMP0005
+EMP0071,Tara,Verma,Marketing,SEO Specialist,Mumbai,25-07-2022,Full-time,1605000,7,Master's,,0.08,EMP0006
+EMP0072,Rehan,Patel,Sales,Business Development Executive,Mumbai,12-10-2023,Full-time,1085000,5,Diploma,4,0.08,EMP0001
+EMP0073,Tara,Nair,Data & Analytics,BI Analyst,Chennai,12-09-2025,Part-time,450000,5,Diploma,4,0.1,EMP0008
+EMP0074,Ishita,George,Customer Support,Team Lead,Kozhikode,09-07-2024,Full-time,540000,2,Bachelor's,3,0.03,EMP0005
+EMP0075,Kavya,Bose,Finance,Financial Analyst,Hyderabad,26-06-2019,Full-time,435000,11,Doctorate,4,0,EMP0004
+EMP0076,Rehan,Shetty,Marketing,Brand Analyst,Kochi,29-11-2023,Contract,1410000,4,Master's,5,0.08,EMP0004
+EMP0077,Aarav,Pillai,Human Resources,HR Executive,Pune,05-02-2019,Part-time,785000,10,Doctorate,5,0.1,EMP0005
+EMP0078,Rehan,Kumar,Human Resources,HR Manager,Mumbai,15-01-2022,Full-time,884800,7,Master's,3,0.15,EMP0007
+EMP0079,Zoya,Kulkarni,Operations,Operations Analyst,Kochi,07-08-2025,Contract,430000,4,Bachelor's,3,0.08,EMP0007
+EMP0080,Ishaan,Gupta,Human Resources,People Operations Analyst,Kozhikode,14-08-2022,Full-time,1460000,6,Master's,2,0.15,EMP0008
+EMP0081,Diya,Dutta,Operations,Operations Analyst,Mumbai,02-11-2016,Part-time,995000,12,Doctorate,3,0.12,EMP0007
+EMP0082,Ira,Varghese,Sales,Business Development Executive,Hyderabad,13-10-2025,Contract,440000,4,Bachelor's,4,0.03,EMP0005
+EMP0083,Ananya,Pillai,Data & Analytics,BI Analyst,Mumbai,12-11-2017,Full-time,1215000,13,Doctorate,5,0,EMP0006
+EMP0084,Rohan,Patel,Human Resources,Recruiter,Delhi,15-12-2021,Part-time,1070000,7,Master's,4,0.03,EMP0003
+EMP0085,Aarav,George,Customer Support,Support Manager,Kozhikode,09-08-2017,Full-time,974400,10,Master's,4,0.08,EMP0005
+EMP0086,Rehan,Dutta,Data & Analytics,BI Analyst,Pune,16-11-2019,Full-time,1215000,10,Doctorate,4,0.08,EMP0005
+EMP0087,Aditi,Jain,Customer Support,Support Associate,Delhi,29-08-2018,Full-time,1010000,11,Bachelor's,3,0.05,EMP0005
+EMP0088,Ira,Chopra,Engineering,Engineering Manager,Chennai,10-05-2024,Part-time,1433600,5,Diploma,4,0.03,EMP0006
+EMP0089,Arnav,Rao,Human Resources,HR Executive,Kochi,14-01-2023,Full-time,400000,8,Diploma,3,0.08,EMP0001
+EMP0090,Neha,Kapoor,Sales,Business Development Executive,Kozhikode,20-12-2017,Full-time,685000,9,Diploma,4,0.05,EMP0005
+EMP0091,Siddharth,Rao,Data & Analytics,BI Analyst,Hyderabad,04-11-2016,Contract,1025000,10,Bachelor's,5,0.12,EMP0007
+EMP0092,Arnav,Thomas,Marketing,Brand Analyst,Mumbai,21-05-2017,Full-time,1290000,12,Master's,4,0.12,EMP0005
+EMP0093,Rehan,Kumar,Customer Support,Support Associate,Pune,12-12-2022,Contract,695000,7,Bachelor's,5,0.03,EMP0002
+EMP0094,Zoya,Bose,Human Resources,HR Executive,Mumbai,01-06-2016,Part-time,980000,12,,2,0.03,EMP0003
+EMP0095,Akash,Naidu,Human Resources,HR Manager,Mumbai,06-05-2023,Full-time,1584800,3,Doctorate,3,0.08,EMP0005
+EMP0096,Ananya,Thomas,Customer Support,Customer Success Executive,Pune,04-08-2025,Full-time,405000,3,Bachelor's,,0.05,EMP0006
+EMP0097,Kiran,Das,Customer Support,Support Associate,Kochi,07-06-2023,Part-time,1100000,4,Master's,4,0,EMP0001
+EMP0098,Meera,Saxena,Data & Analytics,Analytics Manager,Bengaluru,28-04-2018,Full-time,1120000,12,Master's,5,0.03,EMP0006
+EMP0099,Aarav,Rao,Human Resources,People Operations Analyst,Chennai,23-10-2018,Part-time,490000,8,Diploma,4,0,EMP0003
+EMP0100,Arjun,Mishra,Engineering,Senior Software Engineer,,22-12-2018,Full-time,974400,7,Bachelor's,4,0.1,EMP0002
+EMP0101,Rehan,Chopra,Customer Support,Support Manager,Bengaluru,26-06-2018,Full-time,375200,12,Doctorate,4,0.15,EMP0005
+EMP0102,Diya,Verma,Operations,Operations Manager,Kochi,11-09-2023,Full-time,1764000,3,Master's,4,0.08,EMP0002
+EMP0103,Rehan,Gupta,Marketing,Brand Analyst,Delhi,06-02-2023,Full-time,1180000,7,Bachelor's,3,0.1,EMP0005
+EMP0104,Tara,Varghese,Finance,Finance Manager,Hyderabad,23-01-2021,Full-time,1629600,6,Doctorate,3,0.08,EMP0007
+EMP0105,Diya,Mehta,Sales,Sales Analyst,Hyderabad,13-03-2020,Full-time,1560000,7,Master's,2,0.15,EMP0002
+EMP0106,Yash,Dutta,Engineering,Engineering Manager,Bengaluru,19-04-2022,Full-time,1556800,8,Diploma,4,0.08,EMP0006
+EMP0107,Ishaan,Rao,Sales,Sales Executive,Mumbai,25-06-2022,Full-time,890000,8,Diploma,3,0.08,EMP0004
+EMP0108,Aditi,Iyer,Finance,Finance Manager,Pune,23-06-2025,Full-time,520800,5,,4,0.12,EMP0005
+EMP0109,Aditi,Patel,Sales,Sales Executive,Chennai,13-01-2018,Contract,1795000,9,Doctorate,4,0,EMP0003
+EMP0110,Ananya,Khan,Customer Support,Support Analyst,Kochi,06-10-2017,Part-time,675000,10,Bachelor's,4,0.15,EMP0002
+EMP0111,Dev,Reddy,Data & Analytics,Data Scientist,Hyderabad,19-12-2020,Full-time,1535000,10,Doctorate,3,0.08,EMP0007
+EMP0112,Akash,Das,Data & Analytics,Data Scientist,Delhi,09-08-2023,Part-time,1965000,8,Bachelor's,3,0.12,EMP0005
+EMP0113,Kavya,Sharma,Engineering,Senior Software Engineer,Kozhikode,19-05-2019,Contract,1008000,8,Master's,4,0.05,EMP0006
+EMP0114,Arjun,Thomas,Human Resources,HR Manager,Bengaluru,21-12-2021,Contract,716800,9,Bachelor's,4,0.15,EMP0006
+EMP0115,Pooja,Menon,Customer Support,Support Associate,Delhi,01-09-2025,Full-time,1015000,3,Diploma,3,0.08,EMP0007
+EMP0116,Aditya,Mehta,Human Resources,People Operations Analyst,Delhi,27-02-2021,Part-time,810000,10,Bachelor's,2,0.15,EMP0002
+EMP0117,Nandini,Chopra,Operations,Logistics Coordinator,Hyderabad,12-05-2024,Part-time,885000,4,Master's,3,0.03,EMP0002
+EMP0118,Sana,Iyer,Sales,Sales Analyst,Kochi,27-02-2024,Full-time,725000,7,Master's,3,0.03,EMP0005
+EMP0119,Saanvi,Khan,Customer Support,Team Lead,Kozhikode,17-06-2024,Full-time,1020000,6,Doctorate,3,0.1,EMP0006
+EMP0120,Rahul,Bose,Customer Support,Support Analyst,Kozhikode,05-12-2024,Full-time,1035000,3,Bachelor's,2,0.1,EMP0002
+EMP0121,Rehan,Joshi,Sales,Sales Analyst,Bengaluru,10-11-2016,Contract,580000,14,Master's,,0.1,EMP0007
+EMP0122,Kiran,Naidu,Sales,Sales Manager,Hyderabad,02-05-2021,Part-time,823200,9,Master's,,0.08,EMP0002
+EMP0123,Varun,Rao,Engineering,Senior Software Engineer,Pune,08-12-2023,Contract,1870400,5,Doctorate,4,0.1,EMP0003
+EMP0124,Pooja,Kapoor,Sales,Sales Manager,Kochi,02-08-2016,Full-time,1349600,15,Bachelor's,2,0,EMP0007
+EMP0125,Rahul,Shetty,Human Resources,HR Business Partner,Delhi,24-06-2019,Full-time,1240000,12,Master's,4,0.03,EMP0002
+EMP0126,Kiran,Bhat,Data & Analytics,BI Analyst,Kozhikode,13-09-2021,Full-time,495000,7,Master's,3,0.03,EMP0004
+EMP0127,Kiran,George,Human Resources,Recruiter,Kochi,12-11-2016,Part-time,1430000,11,Doctorate,4,0.1,EMP0001
+EMP0128,Akash,Mehta,Human Resources,Recruiter,Mumbai,10-01-2018,Full-time,1335000,13,Doctorate,4,0.03,EMP0008
+EMP0129,Sana,Rao,Marketing,Digital Marketing Manager,Kozhikode,16-08-2018,Contract,1075200,12,Diploma,3,0.15,EMP0008
+EMP0130,Anika,Nair,Operations,Process Analyst,Kozhikode,30-11-2021,Full-time,730000,7,Bachelor's,5,0.15,EMP0003
+EMP0131,Yash,Patel,Data & Analytics,Data Scientist,Chennai,09-12-2016,Contract,1145000,10,Diploma,3,0.1,EMP0003
+EMP0132,Varun,Das,Engineering,QA Engineer,Bengaluru,06-08-2016,Full-time,1835000,13,Bachelor's,3,0.08,EMP0002
+EMP0133,Priya,Bose,Sales,Account Manager,Bengaluru,17-07-2017,Full-time,1209600,9,Bachelor's,5,0.08,EMP0003
+EMP0134,Aditya,Pillai,Marketing,SEO Specialist,Hyderabad,13-05-2025,Full-time,1700000,2,Master's,3,0.15,EMP0005
+EMP0135,Nandini,Joshi,Operations,Process Analyst,Chennai,15-02-2021,Full-time,600000,5,Diploma,5,0.08,EMP0001
+EMP0136,Ayaan,Rao,Operations,Operations Associate,Hyderabad,23-11-2022,Part-time,935000,5,Bachelor's,4,0.03,EMP0002
+EMP0137,Nisha,Saxena,Operations,Operations Manager,Hyderabad,27-06-2016,Full-time,1467200,15,Master's,,0.05,EMP0001
+EMP0138,Rohan,Jain,Data & Analytics,Analytics Manager,Kozhikode,30-03-2024,Contract,884800,4,Master's,2,0.1,EMP0006
+EMP0139,Akash,Verma,Human Resources,HR Executive,Pune,11-01-2024,Part-time,395000,5,Doctorate,3,0,EMP0004
+EMP0140,Kiran,Kapoor,Customer Support,Support Analyst,Hyderabad,29-05-2016,Full-time,520000,15,Doctorate,,0.15,EMP0001
+EMP0141,Ayaan,Kapoor,Operations,Operations Manager,Hyderabad,02-05-2020,Contract,890400,8,Bachelor's,4,0.08,EMP0006
+EMP0142,Pooja,Pillai,Operations,Process Analyst,Kozhikode,22-03-2025,Part-time,1070000,2,Doctorate,3,0,EMP0006
+EMP0143,Dev,Chopra,Human Resources,HR Manager,Bengaluru,10-12-2019,Full-time,448000,9,Doctorate,4,0.05,EMP0007
+EMP0144,Akash,Khan,Sales,Sales Manager,Hyderabad,25-12-2024,Full-time,845600,6,Diploma,,0.03,EMP0008
+EMP0145,Varun,Bose,Sales,Business Development Executive,Hyderabad,12-05-2022,Part-time,1895000,4,Master's,3,0.08,EMP0006
+EMP0146,Rohan,Mishra,Sales,Business Development Executive,Delhi,11-07-2019,Part-time,1060000,12,,3,0,EMP0001
+EMP0147,Sana,Menon,Marketing,Content Strategist,Kochi,23-11-2023,Full-time,895000,5,Doctorate,,0.05,EMP0008
+EMP0148,Arjun,Shetty,Human Resources,HR Manager,Pune,25-12-2016,Full-time,1601600,14,Master's,,0.12,EMP0006
+EMP0149,Aditya,Saxena,Human Resources,HR Business Partner,Kozhikode,14-09-2021,Full-time,505000,6,Diploma,,0.15,EMP0003
+EMP0150,Rahul,Thomas,Sales,Business Development Executive,Kozhikode,04-01-2025,Part-time,680000,5,Doctorate,4,0,EMP0002
+EMP0151,Ayaan,Rao,Operations,Process Analyst,Kochi,29-10-2016,Part-time,1130000,10,Master's,,0.08,EMP0008
+EMP0152,Neha,Iyer,Human Resources,HR Manager,Mumbai,21-08-2021,Full-time,1579200,5,Diploma,2,0.03,EMP0005
+EMP0153,Nandini,Chopra,Marketing,Marketing Executive,Kochi,23-10-2018,Part-time,1050000,8,Master's,2,0.05,EMP0002
+EMP0154,Aditi,Patel,Human Resources,People Operations Analyst,Bengaluru,30-01-2024,Part-time,780000,6,Diploma,5,0.1,EMP0001
+EMP0155,Rahul,Mishra,Finance,Payroll Specialist,Chennai,02-09-2020,Contract,475000,10,Diploma,4,0.12,EMP0005
+EMP0156,Vihaan,Verma,Customer Support,Support Associate,Kochi,21-09-2023,Full-time,480000,3,Diploma,3,0.08,EMP0008
+EMP0157,Rehan,Menon,Sales,Business Development Executive,Pune,19-06-2017,Contract,1665000,11,Master's,4,0.05,EMP0004
+EMP0158,Neha,Jain,Human Resources,HR Executive,Mumbai,26-07-2016,Part-time,840000,12,Diploma,5,0.08,EMP0004
+EMP0159,Aditi,Patel,Finance,Financial Analyst,Delhi,02-08-2021,Part-time,1595000,9,Doctorate,4,0.05,EMP0008
+EMP0160,Pooja,Shetty,Finance,Financial Analyst,Bengaluru,17-07-2022,Full-time,520000,6,Doctorate,2,0.08,EMP0008
+EMP0161,Ananya,Joshi,Human Resources,HR Business Partner,Chennai,27-02-2024,Full-time,1325000,4,Diploma,3,0,EMP0007
+EMP0162,Kabir,Menon,Data & Analytics,BI Analyst,Delhi,27-08-2021,Full-time,1855000,8,Diploma,3,0.1,EMP0002
+EMP0163,Akash,Khan,Sales,Account Manager,Mumbai,26-03-2018,Contract,1848000,12,Doctorate,3,0,EMP0001
+EMP0164,Manav,Singh,Human Resources,People Operations Analyst,Pune,12-10-2021,Part-time,765000,5,Diploma,5,0.05,EMP0003
+EMP0165,Tara,Joshi,Customer Support,Support Manager,Pune,12-05-2019,Full-time,336000,10,Doctorate,3,0.12,EMP0002
+EMP0166,Meera,Jain,Marketing,Brand Analyst,Chennai,23-06-2022,Full-time,480000,5,Bachelor's,4,0.03,EMP0007
+EMP0167,Tara,Gupta,Finance,Accountant,Kozhikode,11-12-2020,Full-time,1470000,7,Master's,3,0.12,EMP0004
+EMP0168,Rehan,Kumar,Finance,Payroll Specialist,Mumbai,24-08-2019,Part-time,1620000,12,Diploma,4,0.05,EMP0003
+EMP0169,Rahul,Bhat,Marketing,Brand Analyst,Pune,06-06-2021,Full-time,980000,6,Doctorate,3,0.05,EMP0004
+EMP0170,Manav,Jain,Sales,Business Development Executive,Mumbai,29-11-2019,Full-time,1050000,10,Diploma,3,0.1,EMP0007
+EMP0171,Priya,Reddy,Engineering,Data Engineer,Chennai,04-01-2024,Part-time,1435000,2,Diploma,5,0.12,EMP0005
+EMP0172,Ira,Nair,Marketing,SEO Specialist,Hyderabad,23-03-2017,Contract,960000,13,Diploma,3,0.12,EMP0004
+EMP0173,Priya,Mishra,Customer Support,Support Associate,Chennai,22-08-2023,Full-time,285000,4,Diploma,,0.03,EMP0007
+EMP0174,Rohan,Mehta,Marketing,Marketing Executive,Kochi,14-08-2024,Full-time,940000,2,Doctorate,4,0.12,EMP0001
+EMP0175,Kiran,Pillai,Customer Support,Customer Success Executive,Kozhikode,25-05-2024,Part-time,325000,4,Doctorate,,0.1,EMP0002
+EMP0176,Rehan,Chopra,Human Resources,People Operations Analyst,Pune,01-04-2021,Full-time,595000,7,Bachelor's,5,0.05,EMP0003
+EMP0177,Yash,Gupta,Sales,Sales Analyst,Mumbai,14-05-2022,Full-time,840000,9,Doctorate,3,0.15,EMP0007
+EMP0178,Zoya,Das,Data & Analytics,Senior Data Analyst,Kozhikode,29-07-2017,Full-time,1428000,12,Diploma,5,0,EMP0005
+EMP0179,Ananya,Kulkarni,Marketing,Brand Analyst,Hyderabad,08-02-2024,Contract,375000,6,Diploma,3,0.05,EMP0004
+EMP0180,Kavya,Chopra,Human Resources,HR Manager,Pune,11-09-2023,Full-time,1674400,7,Master's,5,0.15,EMP0005
+EMP0181,Tara,Naidu,Finance,Financial Analyst,Kozhikode,12-05-2021,Part-time,1560000,6,Master's,4,0.1,EMP0006
+EMP0182,Arjun,Kumar,Finance,Payroll Specialist,Hyderabad,16-10-2025,Full-time,1745000,0,Master's,3,0.12,EMP0006
+EMP0183,Diya,George,Human Resources,Recruiter,Kozhikode,05-09-2019,Full-time,915000,11,Doctorate,2,0.03,EMP0008
+EMP0184,Aditi,Thomas,Human Resources,People Operations Analyst,Pune,28-08-2020,Full-time,1070000,9,Master's,2,0.08,EMP0005
+EMP0185,Priya,Nair,Data & Analytics,Data Analyst,Pune,01-10-2020,Contract,610000,7,Master's,4,0,EMP0002
+EMP0186,Diya,Kulkarni,Human Resources,HR Manager,Kochi,13-03-2020,Full-time,1030400,9,Bachelor's,5,0.08,EMP0007
+EMP0187,Aditi,Pillai,Human Resources,People Operations Analyst,Kozhikode,28-05-2020,Part-time,510000,10,Doctorate,4,0.03,EMP0001
+EMP0188,Akash,Saxena,Operations,Operations Analyst,Delhi,10-10-2018,Part-time,1205000,10,Bachelor's,3,0.03,EMP0002
+EMP0189,Aditya,Varghese,Finance,Financial Analyst,Bengaluru,02-10-2016,Contract,485000,9,Doctorate,3,0.12,EMP0001
+EMP0190,Riya,Verma,Finance,Payroll Specialist,Mumbai,08-06-2018,Full-time,755000,8,Diploma,4,0.05,EMP0004
+EMP0191,Yash,Shetty,Human Resources,People Operations Analyst,Kozhikode,24-06-2018,Full-time,730000,11,Diploma,3,0.1,EMP0003
+EMP0192,Rohan,Bhat,Operations,Process Analyst,Kozhikode,29-07-2019,Full-time,1385000,12,Master's,3,0.05,EMP0007
+EMP0193,Zoya,Das,Marketing,SEO Specialist,Pune,13-01-2025,Full-time,495000,4,Diploma,4,0.08,EMP0003
+EMP0194,Ananya,Kapoor,Data & Analytics,BI Analyst,Delhi,01-07-2025,Part-time,685000,3,Bachelor's,4,0.15,EMP0004
+EMP0195,Rahul,Kumar,Data & Analytics,Senior Data Analyst,Bengaluru,08-01-2025,Full-time,2105600,5,Master's,3,0.03,EMP0006
+EMP0196,Siddharth,Verma,Data & Analytics,BI Analyst,Pune,20-09-2018,Contract,1995000,13,Doctorate,,0.08,EMP0004
+EMP0197,Priya,Bhat,Sales,Sales Analyst,Mumbai,07-12-2018,Full-time,1660000,9,Diploma,5,0.08,EMP0002
+EMP0198,Siddharth,Kumar,Sales,Business Development Executive,Delhi,06-07-2016,Full-time,915000,14,Master's,,0,EMP0005
+EMP0199,Anika,Bhat,Finance,Senior Accountant,Kozhikode,31-07-2018,Contract,1148000,11,Doctorate,4,0.12,EMP0006
+EMP0200,Ayaan,Nair,Human Resources,HR Business Partner,Hyderabad,24-11-2017,Full-time,1270000,9,Bachelor's,4,0.03,EMP0001
+EMP0201,Vihaan,Gupta,Operations,Operations Analyst,Kozhikode,13-06-2025,Full-time,910000,6,Bachelor's,2,0.03,EMP0001
+EMP0202,Ayaan,Varghese,Customer Support,Team Lead,Pune,05-03-2016,Part-time,960000,10,Diploma,4,0,EMP0001
+EMP0203,Ishaan,Gupta,Engineering,Engineering Manager,Kochi,12-02-2025,Full-time,1848000,6,Master's,5,0.03,EMP0002
+EMP0204,Riya,Das,Marketing,Content Strategist,Chennai,30-12-2018,Full-time,550000,10,Bachelor's,3,0.08,EMP0008
+EMP0205,Neha,Patel,Engineering,Software Engineer,Kozhikode,18-07-2020,Contract,1515000,9,Diploma,4,0,EMP0001
+EMP0206,Dev,Nair,Data & Analytics,Analytics Manager,Hyderabad,23-06-2016,Full-time,1108800,11,Bachelor's,5,0.12,EMP0008
+EMP0207,Arjun,Pillai,Human Resources,HR Business Partner,Kochi,05-03-2016,Part-time,1100000,11,Master's,3,0.15,EMP0007
+EMP0208,Nandini,Varghese,Operations,Process Analyst,Mumbai,20-09-2019,Full-time,675000,10,Bachelor's,5,0.12,EMP0002
+EMP0209,Saanvi,Sharma,Operations,Operations Analyst,Pune,28-05-2025,Contract,1190000,1,Doctorate,4,0.1,EMP0007
+EMP0210,Diya,Bhat,Finance,Senior Accountant,Pune,15-03-2022,Full-time,1685600,7,Bachelor's,3,0.1,EMP0007
+EMP0211,Ishaan,Patel,Data & Analytics,Data Scientist,Bengaluru,23-09-2017,Full-time,840000,12,Doctorate,4,0.05,EMP0006
+EMP0212,Ishaan,Sharma,Sales,Sales Analyst,Hyderabad,22-02-2017,Full-time,570000,10,Bachelor's,3,0.08,EMP0007
+EMP0213,Riya,Gupta,Sales,Business Development Executive,Kochi,20-02-2016,Contract,1405000,12,Master's,3,0,EMP0004
+EMP0214,Dev,Mehta,Human Resources,HR Business Partner,Pune,18-05-2019,Contract,980000,9,Bachelor's,3,0.03,EMP0007
+EMP0215,Ishaan,Khan,Sales,Sales Analyst,,07-10-2018,Full-time,1615000,12,Doctorate,4,0.03,EMP0008
+EMP0216,Rahul,Verma,Sales,Sales Manager,Chennai,05-04-2020,Contract,1652000,8,Diploma,3,0.15,EMP0003
+EMP0217,Saanvi,Thomas,Human Resources,HR Manager,Pune,31-07-2019,Contract,1444800,9,Diploma,4,0.08,EMP0004
+EMP0218,Rehan,Naidu,Data & Analytics,Analytics Manager,Chennai,29-03-2018,Contract,2066400,12,Diploma,3,0.15,EMP0001
+EMP0219,Meera,Naidu,Data & Analytics,BI Analyst,Delhi,19-07-2023,Contract,805000,6,Bachelor's,4,0.03,EMP0005
+EMP0220,Maya,Nair,Customer Support,Support Manager,Mumbai,16-05-2021,Part-time,884800,9,Bachelor's,4,0.15,EMP0007
+EMP0221,Riya,Chopra,Data & Analytics,Senior Data Analyst,,17-05-2023,Full-time,1517600,8,Doctorate,3,0.1,EMP0001
+EMP0222,Ishita,Rao,Data & Analytics,Data Analyst,Delhi,07-02-2017,Contract,1015000,11,Master's,4,0.1,EMP0004
+EMP0223,Meera,Rao,Sales,Sales Executive,Pune,31-05-2021,Full-time,1105000,5,Doctorate,3,0,EMP0002
+EMP0224,Saanvi,Patel,Finance,Payroll Specialist,Pune,01-06-2021,Full-time,1615000,7,Bachelor's,2,0.12,EMP0008
+EMP0225,Ayaan,Iyer,Engineering,Data Engineer,Kochi,08-04-2023,Full-time,970000,3,Doctorate,5,0.12,EMP0004
+EMP0226,Manav,Sharma,Customer Support,Customer Success Executive,Chennai,11-12-2024,Contract,1085000,4,Doctorate,3,0.12,EMP0007
+EMP0227,Riya,Menon,Operations,Operations Associate,Kochi,26-11-2023,Full-time,845000,3,Diploma,3,0.12,EMP0002
+EMP0228,Tanvi,Thomas,Finance,Finance Manager,Delhi,11-04-2017,Part-time,1848000,11,Bachelor's,4,0.12,EMP0006
+EMP0229,Farhan,Joshi,Sales,Sales Analyst,Hyderabad,25-06-2025,Full-time,790000,4,Diploma,5,0.12,EMP0005
+EMP0230,Tara,Singh,Data & Analytics,Senior Data Analyst,Kochi,04-06-2019,Part-time,1024800,7,Doctorate,3,0.03,EMP0007
+EMP0231,Kabir,Iyer,Operations,Operations Analyst,Mumbai,16-06-2021,Contract,760000,10,Bachelor's,4,0.08,EMP0005
+EMP0232,Tara,Kulkarni,Sales,Sales Executive,Kozhikode,07-06-2021,Contract,845000,6,Doctorate,5,0.1,EMP0008
+EMP0233,Akash,Kapoor,Customer Support,Customer Success Executive,Chennai,04-12-2016,Part-time,315000,13,Diploma,5,0.03,EMP0005
+EMP0234,Riya,Menon,Human Resources,HR Manager,Pune,05-05-2022,Part-time,1495200,9,Diploma,4,0.1,EMP0002
+EMP0235,Rahul,Dutta,Engineering,QA Engineer,Bengaluru,15-02-2022,Contract,1635000,5,Diploma,2,0.15,EMP0004
+EMP0236,Farhan,Chopra,Sales,Sales Executive,Delhi,03-12-2020,Full-time,955000,5,Master's,3,0.12,EMP0006
+EMP0237,Saanvi,Naidu,Finance,Financial Analyst,Pune,12-01-2025,Full-time,1295000,1,Diploma,4,0.1,EMP0003
+EMP0238,Kabir,Das,Data & Analytics,Senior Data Analyst,Kochi,30-05-2024,Full-time,672000,5,Master's,,0.15,EMP0003
+EMP0239,Arjun,Chopra,Operations,Operations Manager,Hyderabad,05-08-2017,Contract,1125600,13,Diploma,4,0.08,EMP0008
+EMP0240,Rehan,Chopra,Sales,Business Development Executive,Mumbai,22-06-2021,Full-time,1835000,7,Doctorate,1,0.15,EMP0002
+EMP0241,Kiran,Shetty,Finance,Finance Manager,Kochi,01-04-2025,Part-time,1864800,2,Doctorate,3,0.15,EMP0005
+EMP0242,Ishita,Bose,Sales,Sales Executive,Bengaluru,07-07-2016,Contract,1525000,10,Master's,1,0.15,EMP0003
+EMP0243,Varun,Kulkarni,Human Resources,HR Business Partner,Kochi,13-10-2017,Full-time,465000,10,Doctorate,4,0.05,EMP0002
+EMP0244,Priya,Patel,Marketing,SEO Specialist,Kochi,24-10-2020,Part-time,580000,10,Master's,4,0,EMP0004
+EMP0245,Kabir,Mishra,Customer Support,Support Associate,Hyderabad,03-02-2016,Full-time,715000,15,Doctorate,,0.15,EMP0007
+EMP0246,Kabir,Chopra,Data & Analytics,Data Analyst,Kochi,26-02-2017,Full-time,1390000,11,Bachelor's,5,0.03,EMP0007
+EMP0247,Farhan,Kulkarni,Human Resources,HR Manager,Kozhikode,09-12-2019,Full-time,694400,11,Bachelor's,4,0.03,EMP0007
+EMP0248,Saanvi,Saxena,Data & Analytics,Senior Data Analyst,Kochi,09-06-2024,Full-time,2189600,2,Diploma,4,0.05,EMP0007
+EMP0249,Rahul,Reddy,Data & Analytics,Senior Data Analyst,Chennai,16-03-2022,Contract,2223200,8,Diploma,4,0.05,EMP0001
+EMP0250,Ayaan,George,Engineering,Senior Software Engineer,Bengaluru,20-07-2021,Full-time,935200,8,Diploma,3,0.12,EMP0002
