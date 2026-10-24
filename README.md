@@ -40,4 +40,3 @@ By completing this project, I aim to demonstrate practical skills in:
 - Using joins and window functions.
 - Exporting analytical results and documenting findings.
 - Managing a data analytics project using Git and GitHub.
-
