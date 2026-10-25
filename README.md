@@ -258,6 +258,17 @@ Through this project, I gained practical experience with:
 - Compare query performance using suitable datasets and controlled experiments.
 - Develop an interactive dashboard for employee analytics.
 
+## Project Screenshots
+
+### Main Python Code
+![Main Python Code](screenshots/main_code.png)
+
+### Department Analysis Results
+![Department Analysis Results](screenshots/analysis_results.png)
+
+### Top 10 Highest-Paid Employees
+![Top Paid Employees](screenshots/top_paid_employees.png)
+
 ## Author
 
 **Fathima Rishlin**
